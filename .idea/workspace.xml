@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="54929542-a93f-4eab-84cb-5bfa4dc42407" name="Changes" comment="Read me">
+    <list default="true" id="54929542-a93f-4eab-84cb-5bfa4dc42407" name="Changes" comment="add mysql">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -68,7 +68,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1794557244979</updated>
-      <workItem from="1794557247093" duration="2700000" />
+      <workItem from="1794557247093" duration="3529000" />
+      <workItem from="1794586757992" duration="7000" />
     </task>
     <task id="LOCAL-00001" summary="Read me">
       <option name="closed" value="true" />
@@ -78,7 +79,23 @@
       <option name="project" value="LOCAL" />
       <updated>1794559093111</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add mysql">
+      <option name="closed" value="true" />
+      <created>1794560115704</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1794560115704</updated>
+    </task>
+    <task id="LOCAL-00003" summary="add mysql">
+      <option name="closed" value="true" />
+      <created>1794560131193</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1794560131193</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -86,6 +103,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Read me" />
-    <option name="LAST_COMMIT_MESSAGE" value="Read me" />
+    <MESSAGE value="add mysql" />
+    <option name="LAST_COMMIT_MESSAGE" value="add mysql" />
   </component>
 </project>

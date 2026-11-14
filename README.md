@@ -1,6 +1,10 @@
 # I'm Dane Lim
 Hello there. My name is Dane Lim. I'm a developer who loves building backend systems with Java & Spring Boot and web apps with Next.js. I'm currently training at KSHRD, building software projects, and researching new technology like RAG systems, local LLMs and AI agents.
 
+<p align="center">
+  <img src="Code_Generated_Image.gif" alt="Coding animation" width="600" />
+</p>
+
 <a href="https://github.com/dane7184">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dane7184/dane7184/output/github-contribution-grid-snake-dark.svg" />
